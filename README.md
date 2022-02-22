@@ -1,5 +1,4 @@
-# Autonomous_Vehicles_Specialization_Course_2022_Univ_of_Tronto
-
+# Autonomous_Vehicles_Specialization
 Projects while studying the Autonomous Vehicles special course by University of Toronto
 
 ## Course 1 : Introduction
