@@ -14,7 +14,15 @@
 
 # print(origin)
 
-t = 8.33
-d = 150*10**3/3600*t -5/2*t**2
+des_list = [[j for i in range(10)] for j in range(5)]
 
-print(d)
+pair1 = [(a,b) for a, b in zip(des_list[:-1], des_list[1:])]
+
+pair2 = []
+for i in range(len(des_list)-1):
+    p1 = des_list[i]
+    p2 = des_list[i+1]
+    pair2.append((p1, p2))    
+
+print(pair1 == pair2)
+print(f"pair1 : {pair1} \n pair2 : {pair2}")
