@@ -1,12 +1,5 @@
 import numpy as np
 import pickle
 
-
-with open('data/pt1_data.pkl', 'rb') as file:
-    data = pickle.load(file)
-
-
-imu_w = data['imu_w'].data
-
-for w in imu_w:
-    print(w)
+arr1 = np.array([[i*j for i in range(10)]for j in range(10)])
+print(arr1[1] == arr1[1, :])
