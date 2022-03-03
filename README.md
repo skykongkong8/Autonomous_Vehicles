@@ -14,6 +14,6 @@ Projects while studying the Autonomous Vehicles special course by University of 
 
 ## Course 3: Perception
 * 3D Camera Perception via geometry and disparity algorithm
-* Odometry, Depth estimation
-* Object Detection
-* Semantic Segmentation
+* Estimate drivable plane with semantic segmentation and RANSAC algorithm
+* Lane estimation with Canny Edge Detection and Hough Tranformation algorithm with threshold filtering & merging
+* Computing minimum distance for collision avoidance with object detection and semantic segmentation
