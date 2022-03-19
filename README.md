@@ -4,8 +4,8 @@ Projects while studying the Autonomous Vehicles special course by University of 
 ## Course 1 : Introduction
 * kinematic, dynamic modeling of the autonomous vehicle model
 * system modeling of the environment: rule-based, real-time
-* hw and sw architecture of the autonomous vehicle
-* longitudinal, lateral control
+* error dynamics and optimization
+* longitudinal, lateral controllers (Pure pursuit, Stanley, MPC algorithm)
 
 ## Course 2: Localization
 * state estimation using Least Squares method and KalmanFilter Algorithm
