@@ -1,7 +1,7 @@
 # Autonomous_Vehicles_Specialization
 Projects while studying the Autonomous Vehicles special course by University of Toronto
 
-## Course 1 : Introduction
+## Course 1 : Mechanical Modeling & Control Methodologies
 * kinematic, dynamic modeling of the autonomous vehicle model
 * system modeling of the environment: rule-based, real-time
 * error dynamics and optimization
