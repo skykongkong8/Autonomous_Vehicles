@@ -17,3 +17,7 @@ Projects while studying the Autonomous Vehicles special course by University of 
 * Estimate drivable plane with semantic segmentation and RANSAC algorithm
 * Lane estimation with Canny Edge Detection and Hough Tranformation algorithm with threshold filtering & merging
 * Computing minimum distance for collision avoidance with object detection and semantic segmentation
+
+## Course 4: Motion Planning
+* Mapping the gathered sensor data of external environment into proper map type in real-time (e.g. Ocupancy Grid)
+* Find the most efficient route with search algorithm
