@@ -21,3 +21,9 @@ Projects while studying the Autonomous Vehicles special course by University of 
 ## Course 4: Motion Planning
 * Mapping the gathered sensor data of external environment into proper map type in real-time (e.g. Ocupancy Grid)
 * Find the most efficient route with search algorithm
+* Total Motion Planning:
+  * Local Planner
+  * Collision Checker
+  * Behaviour Planner
+  * Path Optimization
+  * Velocity Planner
